@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1010502749675",
+    "project_id": "nextjs-signup",
+    "storage_bucket": "nextjs-signup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010502749675:android:198032cf7ec48aa72bddae",
+        "android_client_info": {
+          "package_name": "com.anonymous.expoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010502749675-krbjh20gtltmdllee9b97om0pbacqnb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QHsamMnO_e12uRacK0nAmJbdlnJTCIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010502749675-krbjh20gtltmdllee9b97om0pbacqnb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010502749675:android:ec782a50d0c0e00d2bddae",
+        "android_client_info": {
+          "package_name": "com.pritesh.expoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010502749675-krbjh20gtltmdllee9b97om0pbacqnb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QHsamMnO_e12uRacK0nAmJbdlnJTCIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010502749675-krbjh20gtltmdllee9b97om0pbacqnb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
