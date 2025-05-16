@@ -11,8 +11,8 @@ This repository contains two main projects as per the assignment requirements:
 
 ```
 FrontendAssignment/
-├── ExpoApp/
-├── NextJSApp/
+├── expo-app/
+├── nextjs-app/
 └── README.md
 ```
 
@@ -23,8 +23,8 @@ FrontendAssignment/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Frontend-Intern-Assignment.git
-cd Frontend-Intern-Assignment
+git clone https://github.com/priteshranoliya/Frontend-Intern-Assignment.git
+cd FrontendAssignment
 ```
 
 ### 2. Running NextJSApp (Web)
@@ -32,7 +32,7 @@ cd Frontend-Intern-Assignment
 Navigate to the NextJS app folder and install dependencies:
 
 ```bash
-cd NextJSApp
+cd nextjs-app
 npm install
 npm run dev
 ```
@@ -48,7 +48,7 @@ Open this URL in your browser to test the Google Sign-In and web UI.
 Open a new terminal and run:
 
 ```bash
-cd ../ExpoApp
+cd ../expo-app
 npm install
 npx expo prebuild
 npx expo run:android
@@ -90,16 +90,6 @@ npx expo run:android
 * **WebView not loading NextJS app:** Replace `localhost` with your computer’s local IP address in the Expo app code.
 * **Push notifications not received:** Verify Firebase configuration, app permissions, and test on a physical device.
 * **ExpoApp build issues:** Run `npx expo prebuild` before running on Android to generate native files.
-
----
-
-## 📧 Submission Instructions
-
-* The entire assignment is uploaded in this public GitHub repository.
-* Follow the clone and run instructions above.
-* Testers can send push notifications using the Firebase Console.
-* Email the GitHub repo link to: `teamnecxis@gmail.com`
-* Email subject: **Frontend Developer Intern**
 
 ---
 
