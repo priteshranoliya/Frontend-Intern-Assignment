@@ -10,7 +10,7 @@ This repository contains two main projects as per the assignment requirements:
 ## 📁 Repository Structure
 
 ```
-FrontendAssignment/
+Frontend-Intern-Assignment/
 ├── expo-app/
 ├── nextjs-app/
 └── README.md
@@ -24,7 +24,7 @@ FrontendAssignment/
 
 ```bash
 git clone https://github.com/priteshranoliya/Frontend-Intern-Assignment.git
-cd FrontendAssignment
+cd Frontend-Intern-Assignment
 ```
 
 ### 2. Running NextJSApp (Web)
